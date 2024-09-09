@@ -22,6 +22,6 @@ public class encory {
         
 
         // Close the browser
-        //driver.quit();
+        driver.quit();
     }
 }
